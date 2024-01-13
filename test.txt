@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test twice!!
+=======
+test 3rd
+>>>>>>> feature2
